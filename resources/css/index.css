@@ -1,0 +1,6 @@
+@import "../../node_modules/@midzer/tobii/dist/tobii.min.css";
+
+.fi-ta-ctn {
+    background: none !important;
+    box-shadow: none !important;
+}
